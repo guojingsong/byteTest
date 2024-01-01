@@ -1,0 +1,2 @@
+springmvc=com.roadjava.skywalking.agent.demo.apm.plugins.springmvc.ControllerInstrumentation
+springmvc=com.roadjava.skywalking.agent.demo.apm.plugins.springmvc.RestControllerInstrumentation

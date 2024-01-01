@@ -1,0 +1,1 @@
+mysql-8.x=com.roadjava.skywalking.agent.demo.apm.plugins.mysql.MysqlInstrumentation
